@@ -66,7 +66,7 @@
                 <div class="col">
                     <div class="site-logo-wrap">
                         <div class="site-logo">
-                            <a href="{{ route('home') }}"><img width="120px" height="80px" class="img-fluid" src="{{asset('frontend/img/logo-2.png')}}" alt="Logo"></a>
+                            <a href="{{ route('home') }}"><img class="img-fluid" src="{{asset('frontend/img/logo-2.png')}}" alt="Logo"></a>
                         </div>
                         <div class="get-support clearfix d-none">
                             <div class="get-support-icon">
