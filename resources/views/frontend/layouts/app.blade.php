@@ -4,12 +4,12 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>{{ config('app.name', 'Ikmal Real Estate') }}</title>
+    <title>{{ config('app.name', 'Omrana Homes') }}</title>
     <meta name="robots" content="noindex, follow" />
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta property="og:title" content="إكمال - Ikmal" />
-    <meta property="og:site_name" content="Ikmal" />
+    <meta property="og:title" content="منازل العمران" />
+    <meta property="og:site_name" content="Omrana Homes" />
     <meta property="og:type" content="realestate" />
     {{-- <meta property="og:image" content="https://f.top4top.io/p_24822gs1y1.png" /> --}}
     <meta name="csrf-token" content="{{ csrf_token() }}">
