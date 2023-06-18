@@ -105,8 +105,7 @@
                 <div class="col-lg-4 col-sm-6 col-12">
                     <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white  box-shadow-1">
                         <div class="ltn__feature-icon">
-                            <!-- <span><i class="flaticon-house"></i></span> -->
-                            <img src="{{asset('frontend/img/icons/icon-img/21.png')}}" alt="#">
+                             <span><i class="flaticon-house"></i></span> 
                         </div>
                         <div class="ltn__feature-info">
                             <h3><a href="#">العقار المناسب</a></h3>
@@ -117,8 +116,7 @@
                 <div class="col-lg-4 col-sm-6 col-12">
                     <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white  box-shadow-1 active">
                         <div class="ltn__feature-icon">
-                            <!-- <span><i class="flaticon-house-3"></i></span> -->
-                            <img src="{{asset('frontend/img/icons/icon-img/22.png')}}" alt="#">
+                            <span><i class="flaticon-house-3"></i></span> 
                         </div>
                         <div class="ltn__feature-info">
                             <h3><a href="#">الحلول المالية</a></h3>
@@ -129,8 +127,7 @@
                 <div class="col-lg-4 col-sm-6 col-12">
                     <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white  box-shadow-1">
                         <div class="ltn__feature-icon">
-                            <!-- <span><i class="flaticon-deal-1"></i></span> -->
-                            <img src="{{asset('frontend/img/icons/icon-img/23.png')}}" alt="#">
+                             <span><i class="flaticon-deal-1"></i></span> 
                         </div>
                         <div class="ltn__feature-info">
                             <h3><a href="#">نصنع الحلم</a></h3>
