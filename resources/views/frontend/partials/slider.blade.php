@@ -2,7 +2,7 @@
     <!-- SLIDER AREA START (slider-4) -->
     <div class="ltn__slider-area ltn__slider-4 position-relative">
         <div class="ltn__slide-one-active----- slick-slide-arrow-1----- slick-slide-dots-1----- arrow-white----- ltn__slide-animation-active">
-            <video autoplay muted loop id="myVideo">
+            <video autoplay muted loop playsinline id="myVideo">
                 <source src="{{asset('frontend/media/bg.mp4')}}" type="video/mp4">
             </video>
             <!-- ltn__slide-item -->
