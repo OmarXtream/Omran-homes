@@ -1,16 +1,7 @@
-@font-face {
-  font-family: "JF Flat Regular";
-  src: url('../fonts/JF-Flat-regular.eot');
-  src: url('../fonts/JF-Flat-regular.eot?#iefix') format('embedded-opentype'),
-  url('../fonts/JF-Flat-regular.svg#JF Flat Regular') format('svg'),
-  url('../fonts/JF-Flat-regular.woff') format('woff'),
-  url('../fonts/JF-Flat-regular.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;700;900&display=swap');
 
 body {
-  font-family: "JF Flat Regular", Arial, sans-serif !important;
+  font-family: "Cairo", Arial, sans-serif !important;
  }
 
 
@@ -67,8 +58,8 @@ body {
   /* Lighten */
   --ltn__heading-color: #071c1f;
   --ltn__paragraph-color: #5C727D;
-  --ltn__heading-font: 'JF Flat Regular';
-  --ltn__body-font: 'JF Flat Regular';
+  --ltn__heading-font: 'Cairo';
+  --ltn__body-font: 'Cairo';
   /* Footer ACD2D8 8CB2B2  */
   --ltn__color-1: #8cb2b2;
   --ltn__color-2: #ACD2D8;
@@ -183,7 +174,7 @@ body {
 html {
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
-  font-family: "JF Flat Regular", Arial, sans-serif !important;
+  font-family: "Cairo", Arial, sans-serif !important;
 }
 
 * {
