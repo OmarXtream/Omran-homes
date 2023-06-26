@@ -6,7 +6,7 @@
                 <source src="{{asset('frontend/media/bg.mp4')}}" type="video/mp4">
             </video>
             <!-- ltn__slide-item -->
-            <div class="ltn__slide-item ltn__slide-item-2 ltn__slide-item-7 bg-image--- bg-overlay-theme-black-30" data-bg="{{asset('frontend/img/slider/11.jpg')}}">
+            <div class="ltn__slide-item ltn__slide-item-2 ltn__slide-item-7 bg-image--- bg-overlay-theme-black-30">
                 <div class="ltn__slide-item-inner text-center">
                     <div class="container">
                         <div class="row">
